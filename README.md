@@ -6,7 +6,8 @@ With this very basic bash script you can build the epsilon userland bins and fla
 ## Requirements:
 * Make
 * build-essential 
-* git imagemagick 
+* git 
+* imagemagick 
 * libx11-dev 
 * libxext-dev 
 * libfreetype6-dev 
