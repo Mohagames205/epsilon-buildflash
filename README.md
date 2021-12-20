@@ -15,6 +15,7 @@ With this very basic bash script you can build the epsilon userland bins and fla
 * pkg-config
 * gcc-arm-none-eabi 
 * binutils-arm-none-eabi
+* dfu-util
 
 Please read the [official docs](https://www.numworks.com/resources/engineering/software/build/) for a more detailed explanation about the dependencies.
 
