@@ -4,7 +4,7 @@ Simple tool to build and flash the userland bins
 With this very basic bash script you can build the epsilon userland bins and flash the two parts to the numworks calculator.
 
 ## Requirements:
-* Make
+* cmake
 * build-essential 
 * git 
 * imagemagick 
